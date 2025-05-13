@@ -1,4 +1,4 @@
-package com.sergioillan.entidades;
+package com.sergioillan.entidades.user;
 
 
 import lombok.Data;
