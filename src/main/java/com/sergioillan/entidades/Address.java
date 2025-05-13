@@ -1,4 +1,4 @@
-package entidades;
+package com.sergioillan.entidades;
 
 import lombok.Data;
 
